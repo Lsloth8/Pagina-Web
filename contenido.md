@@ -23,7 +23,7 @@ del fondo. Para un animador, esto era una pérdida. Pero La Bella Durmiente se h
 de sus predecesoras, y los animadores tendrían que llegar a un acuerdo con Earle.
 En cierto modo, Earle se convirtió en el artista que sería durante el resto de su vida mientras trabajaba en Disney.
 
-## Música y Coreografía
+## Música
 
 La música está extraída del famoso ballet 'La Bella Durmiente' (1889) de Tchaikowsky por expreso deseo de
 Walt Disney. Ya se había utilizado una de las piezas del compositor ruso en Fantasía (1940),
